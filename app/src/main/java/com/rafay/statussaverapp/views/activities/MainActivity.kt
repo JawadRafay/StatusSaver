@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         setContentView(binding.root)
         binding.apply {
 
+
         }
     }
 }
